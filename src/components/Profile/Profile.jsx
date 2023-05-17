@@ -37,3 +37,4 @@ Profile.propTypes = {
     stats: PropTypes.exact({followers: PropTypes.number, views: PropTypes.number, likes: PropTypes.number})
 
 }
+export default Profile;

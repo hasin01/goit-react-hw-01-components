@@ -58,3 +58,4 @@ const newColor = () => {
           }),
         ),
       };
+      export default Statistics;
